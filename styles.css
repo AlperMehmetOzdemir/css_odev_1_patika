@@ -1,0 +1,37 @@
+header {
+  text-align: center;
+  margin: auto;
+}
+h1{
+  color: red;
+}
+
+nav a {
+  margin: 10px;
+}
+
+main {
+margin-top: 24px;
+}
+
+h2 {
+  text-align: center;
+  margin: auto;
+  color: #a044a0
+}
+
+h3 {
+  color: goldenrod
+}
+
+ol li ,ul li {
+  width: fit-content;
+  margin: auto;
+}
+
+.centered {
+  text-align: center;
+  margin: 24px auto;
+}
+
+
